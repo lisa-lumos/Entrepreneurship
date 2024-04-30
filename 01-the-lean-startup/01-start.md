@@ -1,0 +1,36 @@
+# 1. Start
+Entrepreneurship requires a managerial discipline, to harness the entrepreneurial opportunity. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

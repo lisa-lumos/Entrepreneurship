@@ -11,16 +11,13 @@ In the Lean Startup model, we are rehabilitating learning with a concept I call 
 
 IMVU example. In our situation, many entrepreneurial teams give in to fear, and postpone the launch date. Although I understand this impulse, I am glad we persevered, since delay prevents many startups from getting the feedback they need.
 
+Could we have learned those lessons earlier, if I hadn't been so focused on making the product better, by adding features and fixing bugs?
 
+In other words, which of our efforts are value-creating, and which are wasteful?
 
+Lean thinking defines value as providing benefit to the customer; anything else is waste. But in a startup, who the customer is and what the customer might find valuable are unknown, part of the very uncertainty that is an essential part of the definition of a startup. Anything we had done during those months, that did not contribute to our learning, was a form of waste. 
 
-
-
-
-
-
-
-
+Learning is the essential unit of progress for startups. The effort that is not absolutely necessary for learning what customers want can be eliminated. I call this "validated learning" because it is always demonstrated by positive improvements in the startup's core metrics. Validated learning is backed up by empirical data collected from real customers.
 
 
 

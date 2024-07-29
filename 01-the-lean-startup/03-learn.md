@@ -19,24 +19,17 @@ Lean thinking defines value as providing benefit to the customer; anything else 
 
 Learning is the essential unit of progress for startups. The effort that is not absolutely necessary for learning what customers want can be eliminated. I call this "validated learning" because it is always demonstrated by positive improvements in the startup's core metrics. Validated learning is backed up by empirical data collected from real customers.
 
+For example, in one early experiment, we changed our entire website, home page, and product registration flow to replace "avatar chat" with "3D instant messaging." New customers were split automatically between these two versions of the site; half saw one, and half saw the other. We were able to measure the difference in behavior between the two groups. Not only were the people in the experimental group more likely to sign up for the product, they were more likely to become long-term paying customers.
 
+Even after ditching the IM add-on strategy, it still took months to understand why it hadn't worked. After our pivot and many failed experiments, we finally figured out this insight: customers wanted to use IMVU to make "new" friends online. Our customers intuitively grasped something that we were slow to realize. All the existing social products online were centered on customers' real-life identity.
 
+IMVU's avatar technology, however, was uniquely well suited to help people get to know each other online without compromising safety or opening themselves up to identity theft. Once we formed this hypothesis, our experiments became much more likely to produce positive results. Whenever we would change the product to make it easier for people to find and keep new friends, we discovered that customers were more likely to engage. This is true startup productivity: `systematically figuring out the right things to build.`
 
+These were just a few experiments among hundreds that we ran week in and week out as we started to learn which customers would use the product and why. Each bit of knowledge we gathered suggested new experiments to run, which moved our metrics closer and closer to our goal.
 
+The irony is that it is often easier to raise money or acquire other resources when you have zero revenue, zero customers, and zero traction than when you have a small amount. Zero invites imagination, but small numbers invite questions about whether large numbers will ever materialize.
 
+The Lean Startup is not a collection of individual tactics. It is a principled approach to new product development. The only way to make sense of its recommendations is to understand the underlying principles that make them work. The Lean Startup model has been applied to a wide variety of businesses and industries: manufacturing, clean tech, restaurants, and even laundry.
+The tactics from the IMVU story may or may not make sense in your particular business.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+In the Lean Startup model, every product, every feature, every marketing campaign - everything a startup does - is understood to be an experiment designed to achieve validated learning. This experimental approach works across industries and sectors.

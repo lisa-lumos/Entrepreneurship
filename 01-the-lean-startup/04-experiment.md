@@ -25,30 +25,20 @@ A well-designed startup experiment like the one Zappos began with, does more tha
 
 Zappos' initial experiment provided a clear, quantifiable outcome: either a sufficient number of customers would buy the shoes or they would not. It also put the company in a position to observe, interact with, and learn from real customers and partners. This qualitative learning is a necessary companion to quantitative testing. 
 
+## Break it down
+The two most important assumptions entrepreneurs make are the value hypothesis and the growth hypothesis.
 
+The value hypothesis tests whether a product/service delivers value to its customers. We could survey customers to get their opinion, but that would not be accurate because most people have a hard time assessing their feelings objectively. Instead, we could get customer's retention rate. 
 
+The growth hypothesis tests how new customers will discover a product/service. For example, once a program is up and running, how will it spread among the employees, from initial early adopters to mass adoption? A likely way this program could expand is through viral growth. If that is true, the most important thing to measure is behavior: would the early participants actively spread the word to other employees?
 
+The point is NOT to find the average customer, but to find early adopters: the customers who feel the need for the product most acutely. Those customers tend to be more forgiving of mistakes and are especially eager to give feedback.
 
+What if all ten early adopters decline to volunteer again? That would be a highly significant and very negative result. If the numbers from such early experiments don't look promising, there is clearly a problem with the strategy. 
 
+That doesn't mean it's time to give up; on the contrary, it means it's time to get some immediate qualitative feedback, from the participants in the initial experiment,about how to improve the program. 
 
+This entire experiment could be conducted in a matter of weeks, less than one-tenth the time of the traditional strategic planning process. Also, it can happen in parallel with strategic planning while the plan is still being formulated. Even when experiments produce a negative result, those failures prove instructive and can influence the strategy. 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+## An experiment is a product
 

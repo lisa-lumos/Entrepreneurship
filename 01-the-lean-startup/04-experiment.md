@@ -41,4 +41,35 @@ That doesn't mean it's time to give up; on the contrary, it means it's time to g
 This entire experiment could be conducted in a matter of weeks, less than one-tenth the time of the traditional strategic planning process. Also, it can happen in parallel with strategic planning while the plan is still being formulated. Even when experiments produce a negative result, those failures prove instructive and can influence the strategy. 
 
 ## An experiment is a product
+An experiment (e.g., simple prototype which lacks many features) is more than just a theoretical inquiry; it is also a first product. If it is successful, it allows the manager to get started with their campaign: enlisting early adopters, adding employees to each further experiment or iteration, and eventually starting to build a product. By the time that product is ready to be distributed widely, it will already have established customers. It will have solved real problems and offer detailed specifications for what needs to be built.
+
+Even though the prototype misses features, the project is not a failure. The initial product confirms whether users needs it. Where customers complained about missing features, this suggested that those features were important. For the features that were on the road map but that customers didn't complain about - maybe they weren't as important as people initially thought.
+
+Iterating and experimenting before beginning the marketing campaign would yield far better results.
+
+Success is not delivering a feature; success is learning how to solve the customer's problem.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 

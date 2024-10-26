@@ -49,27 +49,7 @@ Iterating and experimenting before beginning the marketing campaign would yield 
 
 Success is not delivering a feature; success is learning how to solve the customer's problem.
 
+## Example: A lean startup in government
+An experiment - identify the elements of the plan, that are assumptions rather than facts, and figure out ways to test them. 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+e.g., setup the experiment cheap and quick, target only a small geographic area, use highly targeted advertising, 

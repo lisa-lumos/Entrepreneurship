@@ -16,10 +16,11 @@ Although we write the feedback loop as Build-Measure-Learn because the activitie
 - use innovation accounting to figure out what we need to measure to know if we are gaining validated learning, 
 - and then figure out what product we need to build to run that experiment and get that measurement.
 
+The goal of a startup's early efforts should be to test their assumptions as quickly as possible. If they are true, tremendous opportunity awaits. If they are false, the startup risks total failure.
 
+What differentiates the success stories from the failures, is that the successful entrepreneurs had the foresight, the ability, and the tools to discover which parts of their plans were working brilliantly, and which were misguided, and adapt their strategies accordingly.
 
-
-
+The first step in understanding a new product or service is to figure out if it is fundamentally value-creating or value-destroying. It's also essential that entrepreneurs understand the reasons behind a startup's growth.
 
 
 

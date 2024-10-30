@@ -22,7 +22,7 @@ What differentiates the success stories from the failures, is that the successfu
 
 The first step in understanding a new product or service is to figure out if it is fundamentally value-creating or value-destroying. It's also essential that entrepreneurs understand the reasons behind a startup's growth.
 
-
+You cannot be sure you really understand any part of any business problem, unless you go and see for yourself firsthand. It is unacceptable to take anything for granted, or to rely on the reports of others. (the Toyota Way)
 
 
 

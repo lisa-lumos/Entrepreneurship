@@ -24,22 +24,8 @@ The first step in understanding a new product or service is to figure out if it 
 
 You cannot be sure you really understand any part of any business problem, unless you go and see for yourself firsthand. It is unacceptable to take anything for granted, or to rely on the reports of others. (the Toyota Way)
 
+Startups need extensive contact with potential customers to understand them, so get out of your chair and get to know them.
 
+The goal of early contact with customers is not to gain definitive answers. Instead, it is to clarify at a basic coarse level, that we understand our potential customer, and what problems they have. This will be an essential guide for product development, and ensures that the daily prioritization decisions that every product team must make are aligned with the customer to whom the company aims to appeal.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+The customer archetype is a hypothesis, not a fact it should be considered transitional, until the strategy has shown via validated learning that we can serve this type of customer in a sustainable way.

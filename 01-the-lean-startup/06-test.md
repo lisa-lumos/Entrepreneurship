@@ -11,9 +11,9 @@ For example, how many features do we really need to include, to appeal to early 
 
 The lesson of the MVP is that any additional work beyond what was required to start learning is waste, no matter how important it might have seemed at the time.
 
+For example, Dropbox's assumption is that when it produces a seamless file share experience. However, to prove this assumption with a actual product, it will take tremendous development efforts. Instead, they recorded a video of how the product is supposed to work, and people flocked to their waiting list. In this case, the video is the MVP. 
 
-
-
+The concierge MVP. Instead of automating a service using technology, find the first customer first, then work personally with that customer and go through the steps to deliver the service. This helps with learning, and validating the assumptions. Along the way of getting more customers, if a step works, automate/develop the part that work, instead of invest efforts into something that might work in the future. This personalized service is not the product, but a learning activity designed to test leap-of-faith assumptions in the company's growth model. 
 
 
 

@@ -49,20 +49,46 @@ The product development team must bring a complete report of the results of its 
 
 This is also common with pivots; it is not necessary to throw out everything that came before and start over. Instead, it's about repurposing what has been built and what has been learned to find a more positive direction.
 
+Once you have found success with early adopters, you want to sell to mainstream customers. Mainstream customers have different requirements and are much more demanding.
 
+Case study. The kind of pivot we needed is called a customer segment pivot. In this pivot, the company realizes that the product it's building solves a real problem for real customers but that they are not the customers it originally planned to serve.
 
+For example, we spent months trying to improve the product's activation rate (the rate at which new customers become active consumers of the product), which remained stubbornly low.
 
+We were quickly exhausting our early adopter market. As we drove our marketing team to find more customers, they were forced to reach out more to mainstream customers, but mainstream customers are less forgiving of an early product. The activation and monetization rates of new customers started to go down, driving up the cost of acquiring new customers.
 
+The purpose of those activities: testing a clear hypothesis in the service of the company's vision. Instead, we were chasing growth, revenue, and profits wherever we could find them.
 
+Because of our overfocus on fine-tuning, we had stopped making large investments like these, preferring to invest in lower-risk and lower-yield testing experiments.
 
+Initially, the new design performed worse than the old one, as is usually the case. It lacked the features and functionality of the old design and had many new mistakes as well. But the team relentlessly improved the design until, months later, it performed better. This new design laid the foundation for our future growth.
 
+A pivot is a special kind of change designed to test a new fundamental hypothesis about the product, business model, and engine of growth.
 
+Zoom-in Pivot: In this case, what previously was considered a single feature in a product becomes the whole product.
 
+Zoom-out Pivot: In the reverse situation, sometimes a single feature is insufficient to support a whole product.
 
+Customer Segment Pivot: In this pivot, the company realizes that the product it is building solves a real problem for real customers but that they are not the type of customers it originally planned to serve.
 
+As a result of getting to know customers extremely well, it sometimes becomes clear that the problem we're trying to solve for them is not very important.
 
+We often discover other related problems that are important and can be solved by our team. In many cases, these related problems may require little more than repositioning the existing product.
 
+Platform Pivot: A platform pivot refers to a change from an application to a platform or vice versa. Most commonly, startups that aspire to create a new platform begin life by selling a single application, the so-called killer app, for their platform. Only later does the platform emerge as a vehicle for third parties to leverage as a way to create their own related products.
 
+Business Architecture Pivot: This pivot borrows a concept from Geoffrey Moore, who observed that companies generally follow one of two major business architectures: high margin, low volume (complex systems model) or low margin, high volume (volume operations model). The former commonly is associated with business to business (B2B) or enterprise sales cycles, and the latter with consumer products (there are notable exceptions).
 
+There are many ways to capture the value a company creates. These methods are referred to commonly as monetization or revenue models. There are three primary engines of growth that power startups: the viral, sticky, and paid growth models.
 
+The mechanism by which a company delivers its product to customers is called the sales channel or distribution channel.
 
+A channel pivot is a recognition that the same basic solution could be delivered through a different channel with greater effectiveness.
+
+Technology Pivot: Occasionally, a company discovers a way to achieve the same solution by using a completely different technology.
+
+A pivot is better understood as a new strategic hypothesis that will require a new minimum viable product to test.
+
+Pivots are a permanent fact of life for any growing business. Even after a company achieves initial success, it must continue to pivot.
+
+A pivot is not just an exhortation to change. Remember, it is a special kind of structured change designed to test a new fundamental hypothesis about the product, business model, and engine of growth.

@@ -49,17 +49,10 @@ After an entrepreneur has incubated a product in the innovation sandbox, it has 
 
 Working in the innovation sandbox is like developing startup muscles. At first, the team will be able to take on only modest experiments.
 
+It does not matter how fast we can build. It does not matter how fast we can measure. What matters is how fast we can get through the entire loop.
 
+Switching to validated learning feels worse before it feels better.
 
+If it is known that this loss of productivity is an inevitable part of the transition, it can be managed actively.
 
-
-
-
-
-
-
-
-
-
-
-
+There is a thriving community of Lean Startup meetups around the world as well as online, and suggestions for how you can take advantage of these resources listed in the last chapter of this book, "Join the Movement."
